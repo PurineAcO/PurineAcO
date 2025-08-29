@@ -1,4 +1,7 @@
-## Hi there 👋
+## 本月度推荐电视剧
+
+<img width="690" height="1227" alt="image" src="https://github.com/user-attachments/assets/9ddae847-958d-4f91-8039-21022ede5e24" />
+
 
 <!--
 **PurineAcO/PurineAcO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
