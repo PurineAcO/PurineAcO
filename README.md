@@ -1,4 +1,4 @@
-# 公告 Notice
+# 公告 ***Notice***
 9月4日18时到7日23时，PurineKSRB仓库承接具有时间连续性的重要学务，期间该仓库不对外开放，若您希望访问**豌豆非数注 第二届**，请您移步公众号。  
 from 9.4 1800 to 9.7 2300,PurineKSRB will be private due to important exam-study task. You can go to Wechat *Know Spring Rice Bucket* for articles of ***Some notes for Fishing in Math Sea CMC II***.
 
