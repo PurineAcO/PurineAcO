@@ -5,7 +5,7 @@ from 9.4 1800 to 9.7 2300,PurineKSRB will be private due to important exam-study
 ## 今日运转 *Today Bike*
 
 KK3 | 蓟门桥→沙河高教园 | Ji Door Bridge → ShaHe University Park (***JDB→SUP***)  
-<img width="480" height="115" alt="image" src="https://github.com/user-attachments/assets/11739531-8b3b-4d0a-a200-b7d70f0f4251" />
+<img width="960" height="230" alt="image" src="https://github.com/user-attachments/assets/11739531-8b3b-4d0a-a200-b7d70f0f4251" />
 
 
 ## 本月度推荐电视剧
