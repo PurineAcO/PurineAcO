@@ -14,14 +14,6 @@ KKK61/62/66/67 | 苏州桥→良乡火车站 | SuZhou Bridge → LiangXiang Rail
 KKK81/82 | 天承路→黄村火车站→窑上村 | (***SHU→HCRS→YUV***) | 篱百线  
 KKK91/92 | 北沙滩→知春路 | North Beach → Know Spring Road (***NB→KSR***) | 薛椰客运专线及其燕园支线
 
-## 今日运转 *Today Bike*
-2025.9.4  
-KK3 | 蓟门桥→沙河高教园 | Ji Door Bridge → ShaHe University Park (***JDB→SUP***)  
-KK4 | 沙河→知春路 | SandRiver → Know Spring Road (***SR→KSR***)
-
-<img width="640" height="170" alt="image" src="https://github.com/user-attachments/assets/11739531-8b3b-4d0a-a200-b7d70f0f4251" />
-
-
 ## 本月度推荐电视剧
 
 <img width="690" height="1227" alt="image" src="https://github.com/user-attachments/assets/9ddae847-958d-4f91-8039-21022ede5e24" />
