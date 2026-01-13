@@ -14,9 +14,6 @@
 - KKK81/82 | 天承路→黄村火车站→窑上村 | (***SHU→HCRS→YUV***) | 篱百线  
 - KKK91/92 | 北沙滩→知春路 | North Beach → Know Spring Road (***NB→KSR***) | 薛椰客运专线及其燕园支线
 
-## 神秘
-
-![](Sept.jpg)
 
 
 
